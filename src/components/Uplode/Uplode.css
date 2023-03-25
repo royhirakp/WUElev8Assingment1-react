@@ -1,0 +1,32 @@
+body{
+    /* background-color: aquamarine; */
+     background-color: rgb(145, 145, 244);
+}
+
+
+.dropContainer{
+    background-color: rgb(145, 145, 244);
+}
+.dropdown{
+       width: 350px;
+    height: 180px;
+    /* border: 1px solid; */
+    border-radius: 6px;
+    background-color: #ffff;
+    margin: 20px auto 20px auto;
+    padding: 10px;
+    box-shadow: 1px 1px 19px 1px;
+}
+#styleforDrag{
+    background-color: #918c8c;
+    color: #785e5e;
+}
+label{
+        background-color: rgb(214, 184, 162);
+    /* border: 1px solid; */
+    cursor: pointer;
+    padding: 2px 5px 2px 5px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    ;
+}
